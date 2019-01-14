@@ -1,19 +1,20 @@
 
-#Brandon Larrabee :evergreen_tree::sun_with_face::earth_americas:
+# Brandon Larrabee :evergreen_tree::sun_with_face::earth_americas:
 
 Address:house: |    Email:computer: |        Phone:phone: | Linkedin:100:
 ---------------|--------------------|---------------------|--------------
 555 NW 55th St. Corvallis, OR 97330 | larrabeb@oregonstate.edu | 541-555-5555 | http://www.linkedin.com/in/brandon-larrabee
 
-##Education:
-###Associates Degree | June 2016 | Oregon Coast Community College
+## Education:
+
+### Associates Degree | June 2016 | Oregon Coast Community College
 * Major: Associates of Arts Transfer Degree
-###Bachelors Degree| Expected Graduation Date: June 2019 | Oregon State
+### Bachelors Degree| Expected Graduation Date: June 2019 | Oregon State
 * Major: Earth Sciences with a focus in Geology
 * Certificate: GIS (Geographic Information Systems)
 * Additional coursework in Climate Science and Sustainability
 
-##Experience:
+## Experience:
 #### Research Assistant | Dr. Stephen Lancaster, OSU | September 2018 - Present
 * Tag, manage, and deploy over 1,600 rock samples for a sediment transport project to better model sediment transport in the fluvial systems of the Oregon coastal range
 * Deploy and tune antenna frequencies used to monitor samples during transport events
