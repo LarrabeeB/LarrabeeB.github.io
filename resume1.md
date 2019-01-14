@@ -1,5 +1,5 @@
 
-#Brandon Larrabee:evergreen_tree::sun_with_face::earth_americas:
+#Brandon Larrabee :evergreen_tree::sun_with_face::earth_americas:
 
 Address:house: |    Email:computer: |        Phone:phone: | Linkedin:100:
 ---------------|--------------------|---------------------|--------------
